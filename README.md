@@ -1,8 +1,4 @@
-# AutoDiablo3
-## Windows 7
-<img src="https://github.com/gunoodaddy/AutoDiablo3/raw/master/doc/screenshot.png"/>
-## Mac
-<img src="https://github.com/gunoodaddy/AutoDiablo3/raw/master/doc/screenshot_mac.png"/>
+# Lazybones
 
 ## Feature
 * Support Windows 7 & Mac
